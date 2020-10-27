@@ -1,4 +1,4 @@
-# Task-Planner
+# Task-Planner wireframe
 
 Enjoy this new project in which we have created the User Interface for a task planner.
 
